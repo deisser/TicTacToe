@@ -1,4 +1,4 @@
-# hello-world
+# TicTacToe
 
 ## Project setup
 ```
